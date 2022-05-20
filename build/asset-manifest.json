@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMagic-React/static/css/main.abd64e84.css",
+    "main.js": "/TextMagic-React/static/js/main.c6c0e9c6.js",
+    "static/js/787.5480e000.chunk.js": "/TextMagic-React/static/js/787.5480e000.chunk.js",
+    "index.html": "/TextMagic-React/index.html",
+    "main.abd64e84.css.map": "/TextMagic-React/static/css/main.abd64e84.css.map",
+    "main.c6c0e9c6.js.map": "/TextMagic-React/static/js/main.c6c0e9c6.js.map",
+    "787.5480e000.chunk.js.map": "/TextMagic-React/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c6c0e9c6.js"
+  ]
+}
